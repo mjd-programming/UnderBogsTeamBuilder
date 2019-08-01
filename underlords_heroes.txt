@@ -1,0 +1,58 @@
+abaddon, 3, heartless, knight
+alchemist, 4, warlock, scrappy
+anti mage, 1, elusive, demon hunter
+drow ranger, 1, heartless, hunter
+pudge, 2, heartless, warrior
+kunkka, 4, human, warrior
+medusa, 5, scaled, hunter
+enigma, 5, primordial, shaman
+tidehunter, 4, scaled, warrior
+beastmaster, 2, hunter, brawny
+chaos knight, 2, demon, knight
+crystal maiden, 2, human, mage
+disruptor, 4, warlock, brawny, shaman
+doom, 4, demon, warrior
+dragon knight, 4, dragon, human, knight
+gyrocopter, 5, inventor, deadeye
+keeper of the light, 4, human, mage
+lich, 5, heartless, mage
+lycan, 3, hunter, human, savage
+necrophos, 4, heartless, warlock
+razor, 1, mage, primordial
+techies, 5, inventor, scrappy
+shadowfiend, 3, warlock, demon
+tiny, 1, warrior, primordial
+treant protector, 3, druid, elusive
+troll warlord, 5, troll, warrior
+windranger, 2, hunter, elusive
+batrider, 1, troll, knight
+clockwork, 3, scrappy, inventor
+juggernaut, 2, brawny, warrior
+lina, 3, human, mage
+lone druid, 4, savage, druid
+luna, 2, elusive, knight
+omniknight, 3, human, knight
+puck, 2, mage, dragon, elusive
+slardar, 2, scaled, warrior
+slark, 3, scaled, assassin
+terroblade, 3, demon, demon hunter
+timbersaw, 2, inventor, scrappy
+queen of pain, 2, demon, assassin
+witchdoctor, 2, troll, warlock
+axe, 1, warrior, brawny
+bounty hunter, 1, scrappy, assassin
+bloodseeker, 1, human, assassin
+morphling, 2, primordial, assassin
+sand king, 4, savage, assassin
+phantom assassin, 3, elusive, assassin
+sniper, 3, hunter, deadeye
+templar assassin, 4, elusive, assassin
+tusk, 1, savage, warrior
+viper, 3, dragon, assassin
+arc warden, 4, shaman, primordial
+enchantress, 1, savage, druid
+nature's prophet, 2, elusive, druid
+ogre magi, 1, blood-bound, mage
+shadow shaman, 1, troll, shaman
+venomancer, 1, warlock, savage
+warlock, 1, warlock, blood-bound
