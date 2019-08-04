@@ -56,7 +56,7 @@ class underlords_team_builder_window():
 
         for i in range(len(type_list)):
             boolean_list.append(BooleanVar())
-            check_box_list.append(Checkbutton(window, text=type_list[i], variable=boolean_list[i]))
+            check_box_list.append(Checkbutton(window, text=type_list[i].title(), variable=boolean_list[i]))
 
         for i in range(4):
             for j in range(6):

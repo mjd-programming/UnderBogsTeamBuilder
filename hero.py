@@ -1,17 +1,6 @@
-class hero:
-    def __init__(self, name, cost, types):
-        self.name = name
-        self.cost = cost
-        self.types = types
+import collections
 
-    def get_name(self):
-        return self.name
-
-    def get_cost(self):
-        return self.cost
-
-    def get_types(self):
-        return self.types
+hero = collections.namedtuple('hero',['name', 'cost', 'types'])
 
 def load_hero_data(f_name):
     hero_list = []
@@ -28,7 +17,7 @@ def get_list_with_types(o_list, types):
     n_list = []
     for h in o_list:
         c_hero = h
-        for c_type in c_hero.get_types():
+        for c_type in c_hero.types:
             if c_type in types and not (c_hero in n_list):
                 n_list.append(c_hero)
     return n_list
@@ -36,5 +25,5 @@ def get_list_with_types(o_list, types):
 def get_string_list_from_heroes(h_list):
     r_list = []
     for current_hero in h_list:
-        r_list.append(current_hero.get_name())
+        r_list.append(current_hero.name)
     return r_list
