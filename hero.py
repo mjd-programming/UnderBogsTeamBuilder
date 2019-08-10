@@ -26,4 +26,3 @@ def get_string_list_from_heroes(h_list):
     r_list = []
     for current_hero in h_list:
         r_list.append(current_hero.name)
-    return r_list
